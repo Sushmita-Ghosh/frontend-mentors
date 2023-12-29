@@ -27,7 +27,7 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-![advice-generator-app-main-gules-nu vercel app_(Nest Hub)](https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/1bf0c2ac-76b9-4a5d-8ffe-7d8068d1be5f)
+![advice-generator-app-main-gules-nu vercel app_(Nest Hub)](https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/09759756-7627-45b0-b414-d7e0fcbda5cb)
 
 
 ### Links
