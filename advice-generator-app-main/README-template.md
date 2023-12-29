@@ -28,12 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+[![advice-generator-app-main-gules-nu vercel app_](https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/2fd1730a-3332-4139-b0fb-160fab65d114)]
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Live Site URL: https://advice-generator-app-main-gules-nu.vercel.app/
 
 ## My process
 
