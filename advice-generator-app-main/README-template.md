@@ -27,8 +27,8 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+![advice-generator-app-main-gules-nu vercel app_(Nest Hub)](https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/1bf0c2ac-76b9-4a5d-8ffe-7d8068d1be5f)
 
-[![advice-generator-app-main-gules-nu vercel app_](https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/2fd1730a-3332-4139-b0fb-160fab65d114)]
 
 ### Links
 
@@ -48,7 +48,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Code With Ali](https://www.youtube.com/watch?v=pf6HX1CQ3Sc&t=172s)
 
 ## Author
 
