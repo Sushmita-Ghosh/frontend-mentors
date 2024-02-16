@@ -26,6 +26,14 @@ Users should be able to:
 
 ### Screenshot
 
+
+https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/b2c70a51-6aba-4014-a008-e5664370b9f2
+
+
+
+![image](https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/373bd47d-741b-4a10-bb97-194054eae73d)
+
+
 ### Links
 
 - Solution URL: [https://github.com/Sushmita-Ghosh/frontend-mentors/tree/master/faq-accordion-main])
