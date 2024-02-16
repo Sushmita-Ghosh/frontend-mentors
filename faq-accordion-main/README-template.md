@@ -36,8 +36,8 @@ https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/b2c70a51-6aba
 
 ### Links
 
-- Solution URL: (Here✨)[https://github.com/Sushmita-Ghosh/frontend-mentors/tree/master/faq-accordion-main])
-- Live Site URL: [Here🔥][https://faq-accordion-main-swart.vercel.app/])
+- Solution URL: [Here✨](https://github.com/Sushmita-Ghosh/frontend-mentors/tree/master/faq-accordion-main])
+- Live Site URL: [Here🔥](https://faq-accordion-main-swart.vercel.app/])
 
 ## My process
 
