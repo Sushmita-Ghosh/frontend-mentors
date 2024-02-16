@@ -92,10 +92,6 @@ button:hover {
   padding-bottom: 2rem;
 }
 
-.accordion-btn.active {
-  background-color: rgba(0, 0, 0, 0.1);
-}
-
 @media screen and (max-width: 540px) {
   body {
     background-image: url("./assets/images/background-pattern-mobile.svg");
