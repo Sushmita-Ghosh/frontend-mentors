@@ -22,18 +22,17 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+![advice-generator-app-main-gules-nu vercel app_(Nest Hub)](https://github.com/Sushmita-Ghosh/frontend-mentors/assets/82622059/09759756-7627-45b0-b414-d7e0fcbda5cb)
 
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Live Site URL: https://advice-generator-app-main-gules-nu.vercel.app/
 
 ## My process
 
@@ -47,9 +46,11 @@ Users should be able to:
 
 ### What I learned
 
+- [<picture>](https://www.w3schools.com/tags/tag_picture.asp)
+
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Code With Ali](https://www.youtube.com/watch?v=pf6HX1CQ3Sc&t=172s)
 
 ## Author
 
