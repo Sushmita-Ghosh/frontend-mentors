@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --white: hsl(0, 0%, 100%);
+  --light-pink: hsl(275, 100%, 97%);
+  --grayish-purple: hsl(292, 16%, 49%);
+  --dark-purple: hsl(292, 42%, 14%);
+}
+
+body {
+  background-color: var(--light-pink);
+  background-image: url("./assets/images/background-pattern-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  min-height: 100vh;
+  display: grid;
+  place-content: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+img,
+svg {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  cursor: pointer;
+  background-color: transparent;
+  width: 100%;
+  padding: 1rem 0;
+  font-size: 1.1rem;
+  border: none;
+  font-weight: 600;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  text-align: left;
+}
+
+button:hover {
+  color: var(--grayish-purple);
+}
+
+.container {
+  max-width: 600px;
+  margin: 1rem;
+  background-color: var(--white);
+  padding: 1.5rem;
+  border-radius: 1rem;
+}
+
+.faq-header {
+  display: flex;
+  gap: 2rem;
+}
+
+.faq-header h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.accordian-item:not(:last-child) {
+  border-bottom: 1px solid var(--grayish-purple);
+}
+
+.accordian-item .icons .icon {
+  min-width: 30px;
+}
+
+.accordian-item .icons .minus {
+  display: none;
+}
+
+.accordian-description {
+  background-color: var(--white);
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease;
+}
+
+.accordian-description p {
+  color: var(--grayish-purple);
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.accordion-btn.active {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+@media screen and (max-width: 540px) {
+  body {
+    background-image: url("./assets/images/background-pattern-mobile.svg");
+  }
+}
